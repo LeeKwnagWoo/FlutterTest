@@ -1,0 +1,4 @@
+#Tue Nov 09 14:52:44 KST 2021
+base.0=/Volumes/Data/WorkSpace/Flutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
